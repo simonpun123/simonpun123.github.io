@@ -1,3 +1,3 @@
 # Welcome to Simon Pun's homepage
 
-Sai-Mang Pun is a computational mathematician working in Texas A&M University. He obtained his PhD degree in Mathematics from The Chinese University of Hong Kong in 2019. He aims at applying knowledge and expertise of computational mathematics to make practical impact to the world.
+Simon is an ordinary person. He studied mathematics from 2011 to 2019. He aims at understanding the real world, on which he desires to make an impact, through his mathematical knowledge and expertise. Currently, he is working on Quantum Chemistry and Density Functional Theory, and their combinations with Machine Learning. 
